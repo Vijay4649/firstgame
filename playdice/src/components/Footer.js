@@ -13,7 +13,7 @@ const FooterSection=()=>{
 <div className="social_media">
 <p>Contact-me</p>
 <div className="Footer_section_2">
-<span><a href="https://ghttps://github.com/Vijay4649ithub.com/Vijay4649"><FaGithub/></a></span>
+<span><a href="https://github.com/Vijay4649"><FaGithub/></a></span>
 <span><a href="https://www.linkedin.com/in/vb8975"><FaLinkedinIn/></a></span>
 <span><FaTwitter/></span>
 </div>
