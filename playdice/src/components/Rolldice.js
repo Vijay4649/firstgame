@@ -9,7 +9,7 @@ const RollDice=({roledice,currentDice})=>{
     {/* now we create onclick function on image div section so that as we click on image we get number */}
    <div className="Dice" onClick={roledice}>
     {/* using js we can change the image  */}
-   <img src={`./dice/dice${currentDice}.jpg`} alt=""/>
+   <img src={`./Dice/dice${currentDice}.jpg`} alt=""/>
    </div>
  <p>Click on Dice to Roll</p>
   
